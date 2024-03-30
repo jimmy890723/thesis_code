@@ -1,0 +1,48 @@
+Epoch [1/60], Loss: 2.1838
+Validation Loss: 2.0591, Validation Accuracy: 37.3272%
+Epoch [2/60], Loss: 2.1130
+Validation Loss: 2.0429, Validation Accuracy: 36.9432%
+Epoch [3/60], Loss: 2.0873
+Validation Loss: 2.0094, Validation Accuracy: 37.4040%
+Epoch [4/60], Loss: 2.0612
+Validation Loss: 1.9850, Validation Accuracy: 37.4808%
+Epoch [5/60], Loss: 2.0455
+Validation Loss: 1.9690, Validation Accuracy: 37.7880%
+Epoch [6/60], Loss: 2.0371
+Validation Loss: 1.9601, Validation Accuracy: 37.7880%
+Epoch [7/60], Loss: 2.0313
+Validation Loss: 1.9492, Validation Accuracy: 37.7880%
+Epoch [8/60], Loss: 2.0301
+Validation Loss: 1.9413, Validation Accuracy: 38.1720%
+Epoch [9/60], Loss: 2.0225
+Validation Loss: 1.9448, Validation Accuracy: 38.3257%
+Epoch [10/60], Loss: 2.0221
+Validation Loss: 1.9445, Validation Accuracy: 38.5561%
+Epoch [11/60], Loss: 2.0219
+Validation Loss: 1.9426, Validation Accuracy: 38.5561%
+Epoch [12/60], Loss: 2.0229
+Validation Loss: 1.9389, Validation Accuracy: 38.3257%
+Epoch [13/60], Loss: 2.0177
+Validation Loss: 1.9438, Validation Accuracy: 38.5561%
+Epoch [14/60], Loss: 2.0192
+Validation Loss: 1.9477, Validation Accuracy: 38.5561%
+Epoch [15/60], Loss: 2.0192
+Validation Loss: 1.9561, Validation Accuracy: 38.7097%
+Epoch [16/60], Loss: 2.0197
+Validation Loss: 1.9401, Validation Accuracy: 38.2488%
+Epoch [17/60], Loss: 2.0182
+Validation Loss: 1.9451, Validation Accuracy: 38.4025%
+Epoch [18/60], Loss: 2.0176
+Validation Loss: 1.9426, Validation Accuracy: 37.9416%
+Epoch [19/60], Loss: 2.0193
+Validation Loss: 1.9453, Validation Accuracy: 38.7097%
+Epoch [20/60], Loss: 2.0192
+Validation Loss: 1.9438, Validation Accuracy: 38.6329%
+Epoch [21/60], Loss: 2.0182
+Validation Loss: 1.9482, Validation Accuracy: 38.6329%
+Epoch [22/60], Loss: 2.0224
+Validation Loss: 1.9482, Validation Accuracy: 38.6329%
+E.I: 22615/28644 Accuracy: 0.7895196201647815
+S.N: 25058/28644 Accuracy: 0.8748079877112135
+T.F: 22414/28644 Accuracy: 0.7825024437927663
+J.P: 18865/28644 Accuracy: 0.6586021505376344
