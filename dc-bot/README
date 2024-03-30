@@ -8,3 +8,6 @@ https://drive.google.com/drive/folders/1PT5w-xS_zuibbsoRiBR3vn5zNgeAotIW?usp=dri
 ---
 
 (MBTI_prediction_by_3ways) use 3 models in file MBTI (SVM/ELM/RF)
+
+---
+(MBTI_prediction_by_BERT_entire) was the elder test file form (MBTI_prediction_by_BERT).
