@@ -1,0 +1,13 @@
+E.I: 889/1000
+Accuracy: 0.889
+S.N: 919/1000
+Accuracy: 0.919
+T.F: 879/1000
+Accuracy: 0.879
+J.P: 831/1000
+Accuracy: 0.831
+
+Accuracy: 0.71
+Precision: 0.71
+Recall: 0.71
+F1 Score: 0.70
