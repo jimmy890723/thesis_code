@@ -1,0 +1,10 @@
+model link:
+https://drive.google.com/drive/folders/1PT5w-xS_zuibbsoRiBR3vn5zNgeAotIW?usp=drive_link
+
+1. data_volume_0517_Nsoftmax_bert-base_batch_size =12 => (MBTI_prediction_by_BERT) to use
+
+2.data_volume_otos(one type one seq) => (MBTI_prediction_by_BERT) to use
+
+---
+
+(MBTI_prediction_by_3ways) use 3 models in file MBTI (SVM/ELM/RF)
