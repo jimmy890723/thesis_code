@@ -1,0 +1,11 @@
+del_count: 4499
+Accuracy: 0.43
+Precision: 0.39
+Recall: 0.43
+F1 Score: 0.40
+
+Validation Accuracy: 43.3948%
+E.I: 1040/1302 Accuracy: 0.7987711213517665
+S.N: 1160/1302 Accuracy: 0.890937019969278
+T.F: 1047/1302 Accuracy: 0.804147465437788
+J.P: 903/1302 Accuracy: 0.6935483870967742

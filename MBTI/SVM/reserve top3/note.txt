@@ -1,0 +1,10 @@
+Accuracy: 0.42
+Precision: 0.36
+Recall: 0.42
+F1 Score: 0.37
+
+Validation Accuracy: 41.5515%
+E.I: 1038/1302 Accuracy: 0.7972350230414746
+S.N: 1145/1302 Accuracy: 0.879416282642089
+T.F: 1016/1302 Accuracy: 0.7803379416282642
+J.P: 891/1302 Accuracy: 0.684331797235023

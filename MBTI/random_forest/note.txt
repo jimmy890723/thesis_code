@@ -1,0 +1,10 @@
+Accuracy: 0.99
+Precision: 0.99
+Recall: 0.99
+F1 Score: 0.99
+
+Test Accuracy: 98.9247%
+E.I: 1299/1302 Accuracy: 0.9976958525345622
+S.N: 1297/1302 Accuracy: 0.9961597542242704
+T.F: 1296/1302 Accuracy: 0.9953917050691244
+J.P: 1294/1302 Accuracy: 0.9938556067588326
